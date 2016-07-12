@@ -1,0 +1,7 @@
+Flappy Bird? Jumpy Star?
+
+Press Space to jump.
+
+Pipes kill.
+
+Will restart if you crash.

@@ -1,0 +1,15 @@
+h1 {
+  color: orange;
+  font-size: 30px;
+}
+
+.try {
+  color: gold;
+  font-weight: bolder;
+  font-kerning: normal;
+}
+
+#instruct {
+  text-align: center;
+  border: 5px solid cyan;
+}
